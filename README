@@ -1,5 +1,6 @@
-sattr_accessor==============
-Description goes here.
+sattr_accessor
+==============
+Singleton attributes.
 
 COPYRIGHT
 =========
